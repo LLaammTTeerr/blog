@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/lamter.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Phan Binh Nguyen Lam',
-  bio: 'Ta thà phụ người, còn hơn phụ hồ!',
+  bio: 'Strike once, but spend a lifetime sharpening the blade',
   links: [
 //    {
 //      name: 'Twitter',
